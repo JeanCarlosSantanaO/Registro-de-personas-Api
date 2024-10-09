@@ -1,0 +1,32 @@
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\appsettings.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Registro de Personas.exe
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Registro de Personas.deps.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Registro de Personas.runtimeconfig.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Registro de Personas.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Registro de Personas.pdb
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.csproj.AssemblyReference.cache
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.AssemblyInfoInputs.cache
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.AssemblyInfo.cs
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.csproj.CoreCompileInputs.cache
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets\msbuild.Registro de Personas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets\msbuild.build.Registro de Personas.props
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registro de Personas.props
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registro de Personas.props
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\scopedcss\bundle\Registro de Personas.styles.css
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro.B801ECF8.Up2Date
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\refint\Registro de Personas.dll
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.pdb
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\Registro de Personas.genruntimeconfig.cache
+C:\Users\jean carlos\source\repos\Registro de Personas\Registro de Personas\obj\Debug\net8.0\ref\Registro de Personas.dll
