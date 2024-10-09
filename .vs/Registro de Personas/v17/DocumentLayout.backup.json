@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84F759D-2F28-4B30-8C61-89351D6A406E}|Registro de Personas\\Registro de Personas.csproj|c:\\users\\jean carlos\\source\\repos\\registro de personas\\registro de personas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84F759D-2F28-4B30-8C61-89351D6A406E}|Registro de Personas\\Registro de Personas.csproj|solutionrelative:registro de personas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Modelos\\PersonasContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Registro de Personas\\Modelos\\PersonasContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84F759D-2F28-4B30-8C61-89351D6A406E}|Registro de Personas\\Registro de Personas.csproj|c:\\users\\jean carlos\\source\\repos\\registro de personas\\registro de personas\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84F759D-2F28-4B30-8C61-89351D6A406E}|Registro de Personas\\Registro de Personas.csproj|solutionrelative:registro de personas\\modelos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Registro de Personas\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Registro de Personas\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:24:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Modelos\\Persona.cs",
+              "RelativeDocumentMoniker": "Registro de Personas\\Modelos\\Persona.cs",
+              "ToolTip": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Modelos\\Persona.cs",
+              "RelativeToolTip": "Registro de Personas\\Modelos\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:23:01.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonasContext.cs",
+              "DocumentMoniker": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Modelos\\PersonasContext.cs",
+              "RelativeDocumentMoniker": "Registro de Personas\\Modelos\\PersonasContext.cs",
+              "ToolTip": "C:\\Users\\jean carlos\\source\\repos\\Registro de Personas\\Registro de Personas\\Modelos\\PersonasContext.cs",
+              "RelativeToolTip": "Registro de Personas\\Modelos\\PersonasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:22:14.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
