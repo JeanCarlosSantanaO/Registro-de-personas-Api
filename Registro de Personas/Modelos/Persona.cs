@@ -19,7 +19,7 @@ public partial class Persona
 
     public string Email { get; set; } = null!;
 
-    public DateOnly FechaNacimiento { get; set; }
+    public DateOnly? FechaNacimiento { get; set; }
 
     public string Genero { get; set; } = null!;
 
